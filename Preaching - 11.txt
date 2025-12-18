@@ -1,0 +1,57 @@
+Posted to: https://www.reddit.com/r/Christianity/comments/1pplbef/the_dangers_of_ai/
+
+The dangers of AI
+
+
+Proverbs 9:10 Amplified Bible:
+
+> The [reverent] fear of the LORD [that is, worshiping Him and regarding Him as truly awesome] is the beginning and the preeminent part of wisdom [its starting point and its essence],
+> And the knowledge of the Holy One is understanding and spiritual insight.
+
+Proverbs 3:5 Amplified Bible:
+
+> Trust in and rely confidently on the LORD with all your heart
+> And do not rely on your own insight or understanding.
+
+1 Thessalonians 5:21 Amplified Bible:
+
+> But test all things carefully [so you can recognize what is good]. Hold firmly to that which is good.
+
+Colossians 2:8 Amplified Bible:
+
+> See to it that no one takes you captive through philosophy and empty deception [pseudo-intellectual babble], according to the tradition [and musings] of mere men, following the elementary principles of this world, rather than following [the truth—the teachings of] Christ.
+
+
+To my fellow believers (and especially the unbelievers) reading this:
+
+"AI" (Large Language Models like ChatGPT, Gemini etc) which are not real Artificial (General) Intelligence, **cannot** be trusted to give you 100% reliable, accurate or truthful information.
+
+Let's go through **why**:
+
+- Accuracy of models can be 10% to 90% depending on task, model, and context. Think about that. Up to 90% of the information it gives could be wrong. Average accuracy across all tasks, models, and contexts: is something like ~50 to 70%. You could flip a coin for the same results.
+
+- Models can hallucinate. This is when the model confidently generates information that is false, fabricated, or unsupported by real sources, presenting it as if it were true. And in the case of some models (e.g. grok) will gaslight you into believing it's true, or you're crazy. In plain terms, the model sounds certain, but the content is wrong — made up names, citations, facts, code behavior, or explanations that don't actually exist. Models predict the next word based on patterns in training data. They do not verify facts or understand truth. Result: plausible-sounding but false statements.
+
+- Hallucination can also happen due to incomplete or biased training data. Models learn from text scraped from the web, books, etc. If the training data contains errors, outdated info, or gaps, the model may reproduce or invent content to "fill gaps".
+
+- Hallucination can also happen due to overgeneralisation. Models try to apply learned patterns to unfamiliar prompts. They may generate content that fits the style or context but is factually incorrect.
+
+- Models are often trained on data that are months out of date (e.g. 6 months or more). It can cost 10s to 100s of millions of dollars **and** take months to train (and verify) a new model, that's why it's not done frequently. They only know what was included up to the cutoff, unless it actively searches the web during a conversation.
+
+- Models do not have continuous self-updating knowledge. They don't learn something from you like new facts and update themselves to apply that knowledge to other chats with other people. Although they may remember _your_ past chats and preferences and change _your_ output based on those, but for others it's like talking to a fresh copy of the model.
+
+- Models are black box. Only the company knows the logic and programming behind them. If the AI company (or a programmer with access) wants to corrupt outputs (or sway opinion in a particular issue) they can apply secret programming rules _before_ the output is sent to the user. In the past you might have searched the web and checked the first few links, read through and decided _for yourself_ what the truth or best answer was. Now you're letting a black box tell you what it thinks is true. You have no idea what logic or manipulated output is happening inside that black box. It is opaque to you.
+
+Proverbs 14:12 Amplified Bible:
+
+> There is a way which seems right to a man and appears straight before him,
+
+> But its end is the way of death.
+
+**Always** test anything you learn against Scripture.
+
+Double woe to anyone installing one of these "AI" black box models on their personal computers / phones or has one on their home network. Did we learn nothing from the 2014 spying revelations?
+
+Triple woe to anyone who implants one of these inacurate nonsense machines in their body and trusts it to implant thoughts into their head.
+
+
