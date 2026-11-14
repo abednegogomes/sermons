@@ -1,0 +1,33 @@
+Posted to: https://www.reddit.com/r/Christianity/comments/1xw0uqn/hubris/
+
+Hubris
+
+Proverbs 3:5 AMPC:
+
+> **“Lean on, trust in, and be confident in the Lord with all your heart and mind and do not rely on your own insight or understanding.”**
+
+[Here we see](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fagedlikemilk-v0-ajtbyxzelb1i1.png%3Fauto%3Dwebp%26s%3D661e9687853800db274d5fdaa833d34107085706) the hubris of big tech companies relying not even on their own insight or understanding, but on non-deterministic, 0-70% accurate "AI" machines they created. They laid off tens of thousands of the programmers and workers that had at least _some_ decent understanding of the source code and instead outsourced that understanding to AI systems to rewrite large portions of the codebases. [Safety critical systems too](https://www.reddit.com/r/ProgrammerHumor/comments/1xvp93r/leadartificialintelligence/) which [no AI should have touched with a bargepole](https://www.reddit.com/r/webdev/comments/1xnjubv/the_vibe_coding_spectrum_software_domains_risk/). Now no-one in these companies actually knows how things work 100% anymore. Only AI can work on the code now. And the AI thinks it knows, but actually the AI doesn't know the whole system either, because it's not real AI, it's inaccurate, hallucinating large language models running in a programming loop *appearing to think*. 
+
+And *think*, these AI machines did **not**. US tech companies got sold on pure marketing and hype.
+
+Proverbs 16:18 AMPC: 
+
+> **“Pride goes before destruction, and a haughty spirit before a fall.”**
+
+- [They crashed email systems worldwide](https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage). 
+- [They crashed air traffic control systems and grounded planes across the United States of America](https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights).
+
+Two AI black swan events within 24 hours of each other.
+
+***And this is just the beginning***. 
+
+Because other countries have bought into the AI hype train as well and are following in their footsteps. 
+
+We must not outsource our thinking and critical systems to AI machines. We must rely on GOD, our Creator, Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace, Saviour, LORD and KING for real wisdom and insight.
+
+Isaiah 55:8-9 AMP:
+
+> **“For My thoughts are not your thoughts, Nor are your ways My ways,” declares the LORD.**
+
+> **“For as the heavens are higher than the earth, So are My ways higher than your ways And My thoughts *higher* than your thoughts.**
+
